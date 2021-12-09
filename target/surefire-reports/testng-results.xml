@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54" started-at="2021-12-07T12:47:00Z" finished-at="2021-12-07T12:47:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54" started-at="2021-12-07T12:47:00Z" finished-at="2021-12-07T12:47:00Z">
+      <class name="maven.mavenJava.seleniumTest">
+        <test-method status="PASS" signature="BrowserAUtomation()[pri:0, instance:maven.mavenJava.seleniumTest@28c4711c]" name="BrowserAUtomation" duration-ms="10" started-at="2021-12-07T12:47:00Z" finished-at="2021-12-07T12:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAUtomation -->
+        <test-method status="PASS" signature="ElementUI()[pri:0, instance:maven.mavenJava.seleniumTest@28c4711c]" name="ElementUI" duration-ms="0" started-at="2021-12-07T12:47:00Z" finished-at="2021-12-07T12:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementUI -->
+      </class> <!-- maven.mavenJava.seleniumTest -->
+      <class name="maven.mavenJava.appiumTest">
+        <test-method status="PASS" signature="IOSApp()[pri:0, instance:maven.mavenJava.appiumTest@59717824]" name="IOSApp" duration-ms="1" started-at="2021-12-07T12:47:00Z" finished-at="2021-12-07T12:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+        <test-method status="PASS" signature="nativeApp()[pri:0, instance:maven.mavenJava.appiumTest@59717824]" name="nativeApp" duration-ms="1" started-at="2021-12-07T12:47:00Z" finished-at="2021-12-07T12:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeApp -->
+      </class> <!-- maven.mavenJava.appiumTest -->
+      <class name="maven.mavenJava.APITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:maven.mavenJava.APITest@146044d7]" name="deleteTwitter" duration-ms="2" started-at="2021-12-07T12:47:00Z" finished-at="2021-12-07T12:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postjira()[pri:0, instance:maven.mavenJava.APITest@146044d7]" name="postjira" duration-ms="1" started-at="2021-12-07T12:47:00Z" finished-at="2021-12-07T12:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjira -->
+      </class> <!-- maven.mavenJava.APITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
